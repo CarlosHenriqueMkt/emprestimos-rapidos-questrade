@@ -42,6 +42,11 @@ yarn dev
 
 Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina antes de prosseguir com as etapas acima.
 
+## Tecnologias
+
+- Next.js
+- Chakra UI
+
 ## Contribuição
 
 Agradecemos seu interesse em contribuir para o projeto. Se você deseja colaborar, siga as etapas abaixo:
